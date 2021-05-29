@@ -1,5 +1,5 @@
 # Adv-Macroeconomics-DSE
-Advanced Microeconomics final project for DSE
+Advanced Macroeconomics final project for DSE
 
 
 Objective: The aim of the project is to study the effects of Cryptocurrencies on monetary systems. We would understand the reasons why the Central Bank of Turkey banned cryptocurrencies (16/4/21) by analysing the link between Bitcoin and key monetary aggregates, using a GARCH model.

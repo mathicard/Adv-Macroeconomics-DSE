@@ -1,4 +1,4 @@
-# Adv-Microeconomics-DSE
+# Adv-Macroeconomics-DSE
 Advanced Microeconomics final project for DSE
 
 

@@ -16,11 +16,11 @@ Matt:
 
 
 Mathi:
-- RER *done*
+- RER **done**
 - RIR1 and RIR3
-- DY *done*
-- V1 and V2 *done*
-- RGDP *done*
+- DY  **done**
+- V1 and V2  **done**
+- RGDP **done**
 - IR_1 and IR_3
 
 

@@ -8,10 +8,10 @@ Objective: The aim of the project is to study the effects of Cryptocurrencies on
 # Data
 
 Matt:
-- Bitcoin. It captures closing price of Bitcoin
-- INF Inflation rate
+- Bitcoin. It captures closing price of Bitcoin **done**
+- INF Inflation rate **done**
 - MP Import Price Index
-- UM Unemployment rate for Turkey 
+- UM Unemployment rate for Turkey **done**
 - OP Crude Oil Prices: West Texas GAP Output gap
 
 

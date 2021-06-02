@@ -13,7 +13,7 @@ Matt:
 - MP Import Price Index **done**
 - UM Unemployment rate for Turkey **done**
 - OP Crude Oil Prices **done**
-- Output Gap
+- Output Gap **Done**
 
 
 Mathi:

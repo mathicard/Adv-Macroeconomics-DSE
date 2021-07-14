@@ -1,29 +1,5 @@
-# Adv-Macroeconomics-DSE
-Advanced Macroeconomics final project for DSE
+# Advanced Macroeconomics - Final project
 
+#### _"Implications of cryptocurrencies for the monetary systems: The case of Bitcoins in Turkey"_
 
-Objective: The aim of the project is to study the effects of Cryptocurrencies on monetary systems. We would understand the reasons why the Central Bank of Turkey banned cryptocurrencies (16/4/21) by analysing the link between Bitcoin and key monetary aggregates, using a GARCH model.
-
-
-# Data
-
-Matt:
-- Bitcoin. It captures closing price of Bitcoin **done**
-- INF Inflation rate **done**
-- MP Import Price Index **done**
-- UM Unemployment rate for Turkey **done**
-- OP Crude Oil Prices **done**
-- Output Gap **Done**
-
-
-Mathi:
-- RER **done**
-- RIR1 and RIR3
-- DY  **done**
-- V1 and V2  **done**
-- RGDP **done**
-- IR_1 and IR_3
-
-
-
-
+Cryptocurrencies have become a phenomenon that concerns many monetary authorities around the world, with Bitcoin (BTC) being the main driver of this market. Initially seen in a disinterested way, several countries discouraged the use of Bitcoins in the latest years because of its inappropriate influence on the monetary systems. This analysis is focused on Turkey, whose central bank banned cryptocurrencies for purchases in April 2021, considering them as a possible irreparable damage and a transaction risk. To understand the rationale for this decision, we develop a conceptual link between BTC and Turkey’s monetary aggregates (inflation, real exchange rate, and money velocity) by applying a GARCH modelling technique. We find evidence that BTC price and volatility have a negative effect on inflation growth.
